@@ -1,2 +1,3 @@
 # production-ready-serverless-workshop-devexperience
-"Production-Ready Serverless" workshop at DevExperience 2019
+
+Public workshop at DevExperience 2019
